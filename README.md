@@ -1,5 +1,6 @@
 # Bank-Loan-Automation-and-Financial-Analytics
 Bank Loan Automation and Financial Analytics 
+
 📚 Table of Contents
 Project Overview
 
